@@ -6,10 +6,7 @@
 - 💻 **Python, Java ve C** dillerinde kod yazmayı seviyorum.
 
 ---
-
-### 🐍 Katkı Yılanım (Contribution Snake)
-![Snake animation](https://raw.githubusercontent.com/elifcerenaslan/elifcerenaslan/output/github-contribution-grid-snake.svg)
-
+![](profile-3d-contrib/profile-green-animate.svg)
 ---
 
 ### 🚀 Yeteneklerim
