@@ -1,7 +1,8 @@
 # Selam, ben Ceren! 👋 
 
 <p align="center">
-  <img src="PixVerse_V5.6_Image_Text_360P_create_a_gif_fro-ezgif.com-video-to-gif-converter.gif" width="600" alt="Elif Ceren Pixel Art Animation">
+  <img src= ![ezgif-622638e8857bea2b](https://github.com/user-attachments/assets/07aea08b-2d79-4b51-ba7d-98fc3a76a6a6)
+width="600" alt="Elif Ceren Pixel Art Animation">
 </p>>
 
 
