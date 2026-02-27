@@ -1,6 +1,8 @@
 # Selam, ben Ceren! 👋 
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07aea08b-2d79-4b51-ba7d-98fc3a76a6a6" width="600">
+</p>
 
 ### 🌿 Yazılım Mühendisliği Öğrencisi & Geliştirici
 - 🎓 **Yazılım Mühendisliği** 2. sınıf öğrencisiyim.
