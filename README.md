@@ -1,10 +1,13 @@
 # Selam, ben Ceren! 👋 
 
-![Pixel City](https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Elif%20Ceren'in%20Dünyası&fontSize=50&animation=fadeIn&fontAlignY=38)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7A035&center=true&vCenter=true&width=600&lines=Selam!+Ben+Elif+Ceren;Bilgisayar+Muhendisligi+Ogrencisi;Stardew+Valley+Seven+Bir+Developer" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXJueXJueXJueXJueXJueXJueXJueXJudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxcaOQUh0c/giphy.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Abhishek-90/Abhishek-90/master/assets/pixel-art-skyline.gif" width="100%" />
 </p>
+
 
 ### 🌿 Yazılım Mühendisliği Öğrencisi & Geliştirici
 - 🎓 **Yazılım Mühendisliği** 2. sınıf öğrencisiyim.
@@ -13,6 +16,11 @@
 
 ---
 
+### 🛠️ Kullandığım Araçlar
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+---
 
 ### 🚀 Yeteneklerim
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
