@@ -1,12 +1,8 @@
 # Selam, ben Ceren! 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7A035&center=true&vCenter=true&width=600&lines=Selam!+Ben+Elif+Ceren;Bilgisayar+Muhendisligi+Ogrencisi;Stardew+Valley+Seven+Bir+Developer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhishek-90/Abhishek-90/master/assets/pixel-art-skyline.gif" width="100%" />
-</p>
+  <img src="PixVerse_V5.6_Image_Text_360P_create_a_gif_fro-ezgif.com-video-to-gif-converter.gif" width="600" alt="Elif Ceren Pixel Art Animation">
+</p>>
 
 
 ### 🌿 Yazılım Mühendisliği Öğrencisi & Geliştirici
@@ -34,4 +30,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifcerenaslan&layout=compact&theme=radical)
 
 ---
-*Bu profil, kod yazma tutkusu ve biraz da Stardew Valley huzuruyla oluşturuldu.* ✨
+
